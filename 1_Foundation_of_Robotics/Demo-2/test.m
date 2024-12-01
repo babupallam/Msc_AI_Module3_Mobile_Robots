@@ -2,9 +2,6 @@ function test(serPort)
 % Complete robot navigation program with obstacle avoidance.
 % serPort is the serial port number for robot communication.
 
-%%%% DO NOT MODIFY CODE ABOVE %%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 disp('==================')
 disp('Program Starting')
 disp('------------------')
@@ -23,7 +20,10 @@ turnWithSensors(serPort, turnSpeed, turnAngleCCW);      % Turn counter-clockwise
 navigateWithSensors(serPort, speed, 2.5, safeDistance); % Move forward 2.5m safely
 turnWithSensors(serPort, turnSpeed, turnAngleCCW);       % Turn counter-clockwise
 
-% Additional navigation logic can be added here for extended paths.
+
+%
+%
+%
 
 disp('Program Completed Successfully')
 disp('===============================')

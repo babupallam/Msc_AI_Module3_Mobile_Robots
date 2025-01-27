@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d8bd16d-7ca4-4f78-8cf9-358289b16a4f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../11_Assessment_work_1/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_Assessment_work_1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_Assessment_work_1/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11_Assessment_work_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive/testLive1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpleTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Assessment_work_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../11_Assessment_work_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Assessment_work_1/plots/20241206_223137_actions_over_time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Assessment_work_1/plots/20241206_223137_motor_speeds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Assessment_work_1/plots/20241206_223137_nearest_obstacle_distance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Assessment_work_1/plots/20241206_223137_robot_trajectory.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Assessment_work_1/plots/20241206_223137_sensor_distances.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Assessment_work_1/plots/20241206_231420_actions_over_time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Assessment_work_1/plots/20241206_231420_motor_speeds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Assessment_work_1/plots/20241206_231420_nearest_obstacle_distance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Assessment_work_1/plots/20241206_231420_robot_trajectory.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Assessment_work_1/plots/20241206_231420_sensor_distances.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_Assessment_work_1/wall_follower_robot.py" beforeDir="false" afterPath="$PROJECT_DIR$/../11_Assessment_work_1/wall_follower_robot.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2r5cMXx93zURbd7EmatvnIhzkGQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Girija/Documents/GitHub/Msc_AI_Module3_Mobile_Robots/12_Assessment_work_2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Girija\Documents\GitHub\Msc_AI_Module3_Mobile_Robots\12_Assessment_work_2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Girija\Documents\GitHub\Msc_AI_Module3_Mobile_Robots\12_Assessment_work_2\archive" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d8bd16d-7ca4-4f78-8cf9-358289b16a4f" name="Changes" comment="" />
+      <created>1735852330689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735852330689</updated>
+      <workItem from="1735852332892" duration="5889000" />
+      <workItem from="1735909018661" duration="1173000" />
+      <workItem from="1735924537928" duration="7545000" />
+      <workItem from="1736113875322" duration="1914000" />
+      <workItem from="1736867870731" duration="40985000" />
+      <workItem from="1737017416963" duration="8293000" />
+      <workItem from="1737187140935" duration="13179000" />
+      <workItem from="1737235896484" duration="23000" />
+      <workItem from="1737757309544" duration="4009000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

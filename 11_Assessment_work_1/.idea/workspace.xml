@@ -4,11 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d8bd16d-7ca4-4f78-8cf9-358289b16a4f" name="Changes" comment="" />
+    <list default="true" id="0d8bd16d-7ca4-4f78-8cf9-358289b16a4f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/20241206_223137_actions_over_time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/20241206_223137_motor_speeds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/20241206_223137_nearest_obstacle_distance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/20241206_223137_robot_trajectory.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/20241206_223137_sensor_distances.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/20241206_231420_actions_over_time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/20241206_231420_motor_speeds.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/20241206_231420_nearest_obstacle_distance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/20241206_231420_robot_trajectory.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/20241206_231420_sensor_distances.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wall_follower_robot.py" beforeDir="false" afterPath="$PROJECT_DIR$/wall_follower_robot.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -18,17 +38,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -47,6 +70,7 @@
       <updated>1735852330689</updated>
       <workItem from="1735852332892" duration="5889000" />
       <workItem from="1735909018661" duration="1173000" />
+      <workItem from="1735924537928" duration="7762000" />
     </task>
     <servers />
   </component>
